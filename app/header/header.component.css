@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+    .navbar {
+      font-family: 'Times New Roman', Times, serif;
+      color: aliceblue;
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  
+  }
